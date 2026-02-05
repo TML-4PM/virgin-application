@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/showcase", "destination": "/virgin-showcase-v7.5-fixed-final-plus.html" },
+    { "source": "/cv", "destination": "/troy-latter-cv-virgin-v8-perfect (1).html" },
+    { "source": "/cover", "destination": "/troy-latter-cover-virgin-v8-perfect (1).html" },
+    { "source": "/skills", "destination": "/virgin-skills.html" }
+  ]
+}
